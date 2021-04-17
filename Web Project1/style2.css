@@ -1,0 +1,42 @@
+﻿html, body{
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+.top-header {
+    background-color: rgb(57,57,57);
+}
+.brand {
+    font-size:20px;
+    font-weight:400;
+}
+.footer {
+    background-color: gray;
+    padding:10px;
+    text-align:center;
+}
+.menu {
+    color: white;
+    padding:20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.main-contain{
+    max-width: 900px;
+    margin: auto;
+}
+.box {
+    background-color:white;
+    margin: 30px;
+    padding: 30px;
+}
+.imag {
+    max-width:100%;
+}
+.button {
+    color: black;
+    background-color: lightblue;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+}
